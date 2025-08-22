@@ -1,3 +1,11 @@
 command to run db postgres
 
 docker run -d --name my_movies -p 5432:5432 -e POSTGRES_PASSWORD=postgres postgres  
+
+
+// TODO for tommorow
+
+// add zod for validation
+// add middleware
+// maybe structure the files
+
